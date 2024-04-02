@@ -1,9 +1,9 @@
-﻿using Extension.Array;
+﻿using NyaExtensions.Array;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Extension.Packet
+namespace NyaExtensions.Packet
 {
     public class ArrayWrapper
     {

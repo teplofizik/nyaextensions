@@ -1,11 +1,11 @@
-﻿using Extension.Array;
+﻿using NyaExtensions.Array;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.IO.Compression;
 using System.Text;
 
-namespace Extension.Compression
+namespace NyaExtensions.Compression
 {
     public class NamedGZipStream : DeflateStream
     {

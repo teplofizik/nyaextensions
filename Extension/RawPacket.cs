@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-using Extension.Array;
+using NyaExtensions.Array;
 
-namespace Extension.Packet
+namespace NyaExtensions.Packet
 {
     public class RawPacket : ArrayWrapper
     {

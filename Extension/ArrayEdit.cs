@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Extension.Array
+namespace NyaExtensions.Array
 {
     public static class ArrayEdit
     {
